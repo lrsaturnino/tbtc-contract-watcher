@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.row {
+	margin: 20px 0px 20px 0px;
+}
+
+.MuiTableCell-body{
+  align: "center";
+}
