@@ -13,4 +13,4 @@ First run the install command `yarn install`
 
 
 
-"# tbtc-contract-watcher" 
+"# tbtc-contract-watcher"
